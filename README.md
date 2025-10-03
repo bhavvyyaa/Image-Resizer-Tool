@@ -1,11 +1,6 @@
 # Image Resizer Tool
 
-This repository contains the solution for **Task 7: Image Resizer Tool**, developed as part of the Python Developer Internship.
-
----
-
-## Objective
-The primary objective of this tool is to provide a **Python-based image resizer and format converter**.  
+This is a  **Python-based image resizer and format converter**.  
 It allows users to interactively choose an image, resize it to custom dimensions, and optionally convert its format.
 
 ---
